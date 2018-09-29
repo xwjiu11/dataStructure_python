@@ -22,7 +22,7 @@
         elapsed = time.time()-start
         print("%12d%16.3f"%(problemsize,elapsed))
         problemsize *=2
-    
+#    
     根据运行结果：
     Problem Size         seconds
     10000000             2.702
